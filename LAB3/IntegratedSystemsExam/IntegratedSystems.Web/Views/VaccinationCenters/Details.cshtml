@@ -1,0 +1,92 @@
+﻿@model IntegratedSystems.Domain.Domain_Models.VaccinationCenter
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Details</h1>
+
+
+<div class="btn-success text-center">
+    <a asp-action="AddPatientToVaccineCenter" asp-route-id="@Model?.Id">Schedule vaccination</a>
+</div>
+
+<div>
+    <h4>VaccinationCenter</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Address)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Address)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.MaxCapacity)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.MaxCapacity)
+        </dd>
+    </dl>
+</div>
+<div>
+
+    <h2>List of all patients : </h2>
+    <table class="table">
+        <thead>
+        <th>#</th>
+        <th>First Name</th>
+        <th>Last Name</th>
+        <th>Date Taken</th>
+        <th>Center</th>
+        <th>Certificate</th>
+        </thead>
+        <tbody>
+            @{
+                var i = 0;
+                foreach (var item in Model.Vaccines)
+                {
+
+
+
+                    <tr>
+                        <td>
+                            @{
+                                i = i + 1;
+                                <p>@i</p>
+                            }
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.PatientFor.FirstName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.PatientFor.LastName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.DateTaken)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Center.Name)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Certificate)
+                        </td>
+                    </tr>
+
+                }
+            }
+        </tbody>
+    </table>
+
+
+
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eroll Saqipi\\Desktop\\Integrirani-Sistemi-master\\IntegratedSystemsExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\eroll saqipi\\desktop\\integrirani-sistemi-master\\integratedsystemsexam\\integratedsystems.web\\controllers\\vaccinationcenterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\controllers\\vaccinationcenterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\eroll saqipi\\desktop\\integrirani-sistemi-master\\integratedsystemsexam\\integratedsystems.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\eroll saqipi\\desktop\\integrirani-sistemi-master\\integratedsystemsexam\\integratedsystems.web\\controllers\\vaccinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\controllers\\vaccinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\eroll saqipi\\desktop\\integrirani-sistemi-master\\integratedsystemsexam\\integratedsystems.web\\views\\vaccinationcenters\\addpatienttovaccinecenter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\views\\vaccinationcenters\\addpatienttovaccinecenter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0073BE5-0BAF-4052-B937-11E30B47FDDE}|IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj|c:\\users\\eroll saqipi\\desktop\\integrirani-sistemi-master\\integratedsystemsexam\\integratedsystems.domain\\dto\\addpatienttovaccinecenterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0073BE5-0BAF-4052-B937-11E30B47FDDE}|IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj|solutionrelative:integratedsystems.domain\\dto\\addpatienttovaccinecenterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|c:\\users\\eroll saqipi\\desktop\\integrirani-sistemi-master\\integratedsystemsexam\\integratedsystems.service\\interface\\ivaccinationcenterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|solutionrelative:integratedsystems.service\\interface\\ivaccinationcenterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|c:\\users\\eroll saqipi\\desktop\\integrirani-sistemi-master\\integratedsystemsexam\\integratedsystems.service\\implementation\\vaccinationcenterserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|solutionrelative:integratedsystems.service\\implementation\\vaccinationcenterserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|c:\\users\\eroll saqipi\\desktop\\integrirani-sistemi-master\\integratedsystemsexam\\integratedsystems.service\\implementation\\patientserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|solutionrelative:integratedsystems.service\\implementation\\patientserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\eroll saqipi\\desktop\\integrirani-sistemi-master\\integratedsystemsexam\\integratedsystems.web\\views\\vaccinationcenters\\nomorecapacity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\views\\vaccinationcenters\\nomorecapacity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\eroll saqipi\\desktop\\integrirani-sistemi-master\\integratedsystemsexam\\integratedsystems.web\\views\\patients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\views\\patients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\eroll saqipi\\desktop\\integrirani-sistemi-master\\integratedsystemsexam\\integratedsystems.web\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0073BE5-0BAF-4052-B937-11E30B47FDDE}|IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj|c:\\users\\eroll saqipi\\desktop\\integrirani-sistemi-master\\integratedsystemsexam\\integratedsystems.domain\\domain models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0073BE5-0BAF-4052-B937-11E30B47FDDE}|IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj|solutionrelative:integratedsystems.domain\\domain models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\eroll saqipi\\desktop\\integrirani-sistemi-master\\integratedsystemsexam\\integratedsystems.web\\views\\vaccinationcenters\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\views\\vaccinationcenters\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|c:\\users\\eroll saqipi\\desktop\\integrirani-sistemi-master\\integratedsystemsexam\\integratedsystems.service\\interface\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|solutionrelative:integratedsystems.service\\interface\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0073BE5-0BAF-4052-B937-11E30B47FDDE}|IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj|c:\\users\\eroll saqipi\\desktop\\integrirani-sistemi-master\\integratedsystemsexam\\integratedsystems.domain\\integratedsystems.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D0073BE5-0BAF-4052-B937-11E30B47FDDE}|IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj|solutionrelative:integratedsystems.domain\\integratedsystems.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\eroll saqipi\\desktop\\integrirani-sistemi-master\\integratedsystemsexam\\integratedsystems.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|c:\\users\\eroll saqipi\\desktop\\integrirani-sistemi-master\\integratedsystemsexam\\integratedsystems.repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|solutionrelative:integratedsystems.repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VaccinesController.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\Integrirani-Sistemi-master\\IntegratedSystemsExam\\IntegratedSystems.Web\\Controllers\\VaccinesController.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Controllers\\VaccinesController.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\Integrirani-Sistemi-master\\IntegratedSystemsExam\\IntegratedSystems.Web\\Controllers\\VaccinesController.cs",
+              "RelativeToolTip": "IntegratedSystems.Web\\Controllers\\VaccinesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T21:57:34.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\Integrirani-Sistemi-master\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\Patients\\Index.cshtml",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Views\\Patients\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\Integrirani-Sistemi-master\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\Patients\\Index.cshtml",
+              "RelativeToolTip": "IntegratedSystems.Web\\Views\\Patients\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T21:49:35.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\Integrirani-Sistemi-master\\IntegratedSystemsExam\\IntegratedSystems.Domain\\Domain Models\\Patient.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Domain\\Domain Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\Integrirani-Sistemi-master\\IntegratedSystemsExam\\IntegratedSystems.Domain\\Domain Models\\Patient.cs",
+              "RelativeToolTip": "IntegratedSystems.Domain\\Domain Models\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T21:49:27.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NoMoreCapacity.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\Integrirani-Sistemi-master\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\VaccinationCenters\\NoMoreCapacity.cshtml",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Views\\VaccinationCenters\\NoMoreCapacity.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\Integrirani-Sistemi-master\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\VaccinationCenters\\NoMoreCapacity.cshtml",
+              "RelativeToolTip": "IntegratedSystems.Web\\Views\\VaccinationCenters\\NoMoreCapacity.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T21:40:55.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\Integrirani-Sistemi-master\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\Integrirani-Sistemi-master\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "IntegratedSystems.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T21:39:14.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PatientServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\Integrirani-Sistemi-master\\IntegratedSystemsExam\\IntegratedSystems.Service\\Implementation\\PatientServiceImpl.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Service\\Implementation\\PatientServiceImpl.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\Integrirani-Sistemi-master\\IntegratedSystemsExam\\IntegratedSystems.Service\\Implementation\\PatientServiceImpl.cs",
+              "RelativeToolTip": "IntegratedSystems.Service\\Implementation\\PatientServiceImpl.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T21:35:44.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VaccinationCenterServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\Integrirani-Sistemi-master\\IntegratedSystemsExam\\IntegratedSystems.Service\\Implementation\\VaccinationCenterServiceImpl.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Service\\Implementation\\VaccinationCenterServiceImpl.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\Integrirani-Sistemi-master\\IntegratedSystemsExam\\IntegratedSystems.Service\\Implementation\\VaccinationCenterServiceImpl.cs",
+              "RelativeToolTip": "IntegratedSystems.Service\\Implementation\\VaccinationCenterServiceImpl.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAwDUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T21:35:11.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IVaccinationCenterService.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\Integrirani-Sistemi-master\\IntegratedSystemsExam\\IntegratedSystems.Service\\Interface\\IVaccinationCenterService.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Service\\Interface\\IVaccinationCenterService.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\Integrirani-Sistemi-master\\IntegratedSystemsExam\\IntegratedSystems.Service\\Interface\\IVaccinationCenterService.cs",
+              "RelativeToolTip": "IntegratedSystems.Service\\Interface\\IVaccinationCenterService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T21:33:45.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\Integrirani-Sistemi-master\\IntegratedSystemsExam\\IntegratedSystems.Service\\Interface\\IPatientService.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Service\\Interface\\IPatientService.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\Integrirani-Sistemi-master\\IntegratedSystemsExam\\IntegratedSystems.Service\\Interface\\IPatientService.cs",
+              "RelativeToolTip": "IntegratedSystems.Service\\Interface\\IPatientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T21:32:32.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddPatientToVaccineCenterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\Integrirani-Sistemi-master\\IntegratedSystemsExam\\IntegratedSystems.Domain\\DTO\\AddPatientToVaccineCenterDTO.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Domain\\DTO\\AddPatientToVaccineCenterDTO.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\Integrirani-Sistemi-master\\IntegratedSystemsExam\\IntegratedSystems.Domain\\DTO\\AddPatientToVaccineCenterDTO.cs",
+              "RelativeToolTip": "IntegratedSystems.Domain\\DTO\\AddPatientToVaccineCenterDTO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T21:31:20.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IntegratedSystems.Domain",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\Integrirani-Sistemi-master\\IntegratedSystemsExam\\IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj",
+              "RelativeDocumentMoniker": "IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\Integrirani-Sistemi-master\\IntegratedSystemsExam\\IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj",
+              "RelativeToolTip": "IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-16T21:31:17.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\Integrirani-Sistemi-master\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\Patients\\Details.cshtml",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Views\\Patients\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\Integrirani-Sistemi-master\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\Patients\\Details.cshtml",
+              "RelativeToolTip": "IntegratedSystems.Web\\Views\\Patients\\Details.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T21:05:32.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddPatientToVaccineCenter.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\Integrirani-Sistemi-master\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\VaccinationCenters\\AddPatientToVaccineCenter.cshtml",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Views\\VaccinationCenters\\AddPatientToVaccineCenter.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\Integrirani-Sistemi-master\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\VaccinationCenters\\AddPatientToVaccineCenter.cshtml",
+              "RelativeToolTip": "IntegratedSystems.Web\\Views\\VaccinationCenters\\AddPatientToVaccineCenter.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T21:02:52.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\Integrirani-Sistemi-master\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\VaccinationCenters\\Details.cshtml",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Views\\VaccinationCenters\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\Integrirani-Sistemi-master\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\VaccinationCenters\\Details.cshtml",
+              "RelativeToolTip": "IntegratedSystems.Web\\Views\\VaccinationCenters\\Details.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAC0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T20:52:01.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VaccinationCentersController.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\Integrirani-Sistemi-master\\IntegratedSystemsExam\\IntegratedSystems.Web\\Controllers\\VaccinationCentersController.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Controllers\\VaccinationCentersController.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\Integrirani-Sistemi-master\\IntegratedSystemsExam\\IntegratedSystems.Web\\Controllers\\VaccinationCentersController.cs",
+              "RelativeToolTip": "IntegratedSystems.Web\\Controllers\\VaccinationCentersController.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAA4wJUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T20:50:02.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\Integrirani-Sistemi-master\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\Integrirani-Sistemi-master\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "IntegratedSystems.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T20:49:57.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\Integrirani-Sistemi-master\\IntegratedSystemsExam\\IntegratedSystems.Repository\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Repository\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\Integrirani-Sistemi-master\\IntegratedSystemsExam\\IntegratedSystems.Repository\\ApplicationDbContext.cs",
+              "RelativeToolTip": "IntegratedSystems.Repository\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T20:49:54.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
