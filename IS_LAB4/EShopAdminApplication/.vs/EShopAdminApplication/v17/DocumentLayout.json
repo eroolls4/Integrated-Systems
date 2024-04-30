@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eroll Saqipi\\Desktop\\IS_LAB4\\integrated_systems\\EShopAdminApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4F3A48-8315-45DF-9F0A-669710B58B90}|EShopAdminApplication\\EShopAdminApplication.csproj|c:\\users\\eroll saqipi\\desktop\\is_lab4\\integrated_systems\\eshopadminapplication\\eshopadminapplication\\models\\eshopapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4F3A48-8315-45DF-9F0A-669710B58B90}|EShopAdminApplication\\EShopAdminApplication.csproj|solutionrelative:eshopadminapplication\\models\\eshopapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4F3A48-8315-45DF-9F0A-669710B58B90}|EShopAdminApplication\\EShopAdminApplication.csproj|c:\\users\\eroll saqipi\\desktop\\is_lab4\\integrated_systems\\eshopadminapplication\\eshopadminapplication\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4F3A48-8315-45DF-9F0A-669710B58B90}|EShopAdminApplication\\EShopAdminApplication.csproj|solutionrelative:eshopadminapplication\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4F3A48-8315-45DF-9F0A-669710B58B90}|EShopAdminApplication\\EShopAdminApplication.csproj|c:\\users\\eroll saqipi\\desktop\\is_lab4\\integrated_systems\\eshopadminapplication\\eshopadminapplication\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4F3A48-8315-45DF-9F0A-669710B58B90}|EShopAdminApplication\\EShopAdminApplication.csproj|solutionrelative:eshopadminapplication\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4F3A48-8315-45DF-9F0A-669710B58B90}|EShopAdminApplication\\EShopAdminApplication.csproj|c:\\users\\eroll saqipi\\desktop\\is_lab4\\integrated_systems\\eshopadminapplication\\eshopadminapplication\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4F3A48-8315-45DF-9F0A-669710B58B90}|EShopAdminApplication\\EShopAdminApplication.csproj|solutionrelative:eshopadminapplication\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4F3A48-8315-45DF-9F0A-669710B58B90}|EShopAdminApplication\\EShopAdminApplication.csproj|c:\\users\\eroll saqipi\\desktop\\is_lab4\\integrated_systems\\eshopadminapplication\\eshopadminapplication\\models\\productinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4F3A48-8315-45DF-9F0A-669710B58B90}|EShopAdminApplication\\EShopAdminApplication.csproj|solutionrelative:eshopadminapplication\\models\\productinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4F3A48-8315-45DF-9F0A-669710B58B90}|EShopAdminApplication\\EShopAdminApplication.csproj|c:\\users\\eroll saqipi\\desktop\\is_lab4\\integrated_systems\\eshopadminapplication\\eshopadminapplication\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4F3A48-8315-45DF-9F0A-669710B58B90}|EShopAdminApplication\\EShopAdminApplication.csproj|solutionrelative:eshopadminapplication\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4F3A48-8315-45DF-9F0A-669710B58B90}|EShopAdminApplication\\EShopAdminApplication.csproj|c:\\users\\eroll saqipi\\desktop\\is_lab4\\integrated_systems\\eshopadminapplication\\eshopadminapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4F3A48-8315-45DF-9F0A-669710B58B90}|EShopAdminApplication\\EShopAdminApplication.csproj|solutionrelative:eshopadminapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4F3A48-8315-45DF-9F0A-669710B58B90}|EShopAdminApplication\\EShopAdminApplication.csproj|c:\\users\\eroll saqipi\\desktop\\is_lab4\\integrated_systems\\eshopadminapplication\\eshopadminapplication\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4F3A48-8315-45DF-9F0A-669710B58B90}|EShopAdminApplication\\EShopAdminApplication.csproj|solutionrelative:eshopadminapplication\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4F3A48-8315-45DF-9F0A-669710B58B90}|EShopAdminApplication\\EShopAdminApplication.csproj|c:\\users\\eroll saqipi\\desktop\\is_lab4\\integrated_systems\\eshopadminapplication\\eshopadminapplication\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4F3A48-8315-45DF-9F0A-669710B58B90}|EShopAdminApplication\\EShopAdminApplication.csproj|solutionrelative:eshopadminapplication\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4F3A48-8315-45DF-9F0A-669710B58B90}|EShopAdminApplication\\EShopAdminApplication.csproj|c:\\users\\eroll saqipi\\desktop\\is_lab4\\integrated_systems\\eshopadminapplication\\eshopadminapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4F3A48-8315-45DF-9F0A-669710B58B90}|EShopAdminApplication\\EShopAdminApplication.csproj|solutionrelative:eshopadminapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 264,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1494831367:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IS_LAB4\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "EShopAdminApplication\\Views\\Order\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IS_LAB4\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "EShopAdminApplication\\Views\\Order\\Details.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T11:43:24.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IS_LAB4\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EShopAdminApplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IS_LAB4\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EShopAdminApplication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T11:41:30.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IS_LAB4\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "EShopAdminApplication\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IS_LAB4\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "EShopAdminApplication\\Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAQwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T11:25:17.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IS_LAB4\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "EShopAdminApplication\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IS_LAB4\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "EShopAdminApplication\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:28:21.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IS_LAB4\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Program.cs",
+              "RelativeDocumentMoniker": "EShopAdminApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IS_LAB4\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Program.cs",
+              "RelativeToolTip": "EShopAdminApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:25:13.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IS_LAB4\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "EShopAdminApplication\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IS_LAB4\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "EShopAdminApplication\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:24:30.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductInOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IS_LAB4\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Models\\ProductInOrder.cs",
+              "RelativeDocumentMoniker": "EShopAdminApplication\\Models\\ProductInOrder.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IS_LAB4\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Models\\ProductInOrder.cs",
+              "RelativeToolTip": "EShopAdminApplication\\Models\\ProductInOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:22:50.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IS_LAB4\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "EShopAdminApplication\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IS_LAB4\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Models\\Product.cs",
+              "RelativeToolTip": "EShopAdminApplication\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:22:34.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IS_LAB4\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "EShopAdminApplication\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IS_LAB4\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Models\\Order.cs",
+              "RelativeToolTip": "EShopAdminApplication\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:22:22.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EShopApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\IS_LAB4\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Models\\EShopApplicationUser.cs",
+              "RelativeDocumentMoniker": "EShopAdminApplication\\Models\\EShopApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\IS_LAB4\\integrated_systems\\EShopAdminApplication\\EShopAdminApplication\\Models\\EShopApplicationUser.cs",
+              "RelativeToolTip": "EShopAdminApplication\\Models\\EShopApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:22:13.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
