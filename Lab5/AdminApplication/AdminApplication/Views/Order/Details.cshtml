@@ -1,0 +1,41 @@
+﻿@model AdminApplication.Models.Order
+
+<div class="container">
+    <div>
+        <a class="btn btn-success">Order for @Model.Owner?.FirstName</a>
+    </div>
+
+    <div class="row">
+        @if (Model.ProductInOrders != null && Model.ProductInOrders.Any())
+        {
+            @for (int i = 0; i < Model.ProductInOrders.Count(); i++)
+            {
+                var productInOrder = Model.ProductInOrders.ElementAt(i);
+                if (productInOrder != null)
+                {
+                    var orderedProduct = productInOrder.OrderedProduct;
+                    var concert = orderedProduct?.Concert;
+                    if (concert != null)
+                    {
+                        <div class="col-3 m-4">
+                            <div class="card" style="width: 18rem; height: 35rem">
+                                <img class="card-img-top" src="@concert.ConcertImage" alt="Card image cap">
+                                <div class="card-body">
+                                    <h5 class="card-title">@concert.ConcertName</h5>
+                                    <p class="card-text">@concert.ConcertDescription</p>
+                                    <h6>Price: @orderedProduct.Price $</h6>
+                                    <h6>Quantity: @productInOrder.Quantity</h6>
+                                    <h6>Total: @(orderedProduct.Price * productInOrder.Quantity) $</h6>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                }
+            }
+        }
+        else
+        {
+            <p>No products in this order.</p>
+        }
+    </div>
+</div>
